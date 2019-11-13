@@ -2,7 +2,10 @@
 # Given a hash with numeric values, return the key for the smallest value
 require 'pry'
 def key_for_min_value(name_hash)
-  name_hash.to_a
-  name_hash
+  array = []
+  array << name_hash.to_a
+  array.each do |n|
+    
+  end
 binding.pry
 end
