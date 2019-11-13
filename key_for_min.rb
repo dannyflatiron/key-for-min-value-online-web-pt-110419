@@ -9,8 +9,8 @@ def key_for_min_value(name_hash)
       lowest_value = o
       min_key = n
     end
-    min_key
   end
+  min_key
 # binding.pry
 end
 
