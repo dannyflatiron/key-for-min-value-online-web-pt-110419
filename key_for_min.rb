@@ -16,4 +16,4 @@ end
 
 #Created two variables since we have to store the values for the keys and values from the hash
 #Both variables should be set to nil since the method should return nil if hash is empty
-#lowest
+#To compare values, if the lowest_value is less than the value passed through the iteration block then add that new low value to the variable 
